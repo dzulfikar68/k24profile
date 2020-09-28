@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">K24 Member App</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="register">Register</string>
+    <string name="fullname">fullname</string>
+    <string name="address">address</string>
+    <string name="login">Login</string>
+    <string name="belum_register">belum register?</string>
+    <string name="logout">logout</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string-array name="genders">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
